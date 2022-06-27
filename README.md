@@ -5,7 +5,7 @@ Pour utiliser ce programme :
 1) Télécharger le dossier "Minecraft-Updater"
 
 2) Activer l'exécution de scripts PowerShell sur votre machine Windows
-Lancer PowerShell en tant qu'administrateur
-Lancer la commande : "Set-ExecutionPolicy Unrestricted"
+- Lancer PowerShell en tant qu'administrateur
+- Lancer la commande : "Set-ExecutionPolicy Unrestricted"
      
 3) Clic droit sur le fichier "Minecraft_Updater.ps1" ensuite cliquez sur "Exécuter avec PowerShell"
