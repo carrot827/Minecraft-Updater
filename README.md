@@ -1,4 +1,4 @@
-# Minecraft-Updater
+# MinecraftUpdater
 Updater pour les serveurs Java Edition sous Windows
 
 Pour utiliser ce programme :
